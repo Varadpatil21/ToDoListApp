@@ -81,12 +81,17 @@ ul li::before{
     background-size: cover;
     top: 4px;
     left: 7px;
+    border: #a50c5a;
+    margin-bottom: 14px;
+    
     
 }
 
 .checked{
     background-color: #08f0176b;
     border-radius: 25px;
+    margin-bottom: 14px;
+    border-color: #5e6447;
 }
 
 .checked::before{
