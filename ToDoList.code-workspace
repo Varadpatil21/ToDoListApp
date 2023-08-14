@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Weather"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ToDoList"
+	}
+}
